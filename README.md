@@ -1,10 +1,10 @@
 # 🕐 Digital Watch
 
 A lightweight, browser-based **Digital Clock** and **Countdown Timer** built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies.
-🔗 link : https://vishandeveloper29.github.io/Digital-Watch/
 ---
 
 ## ✨ Features
+🔗 link : https://vishandeveloper29.github.io/Digital-Watch/
 
 ### 🕒 Digital Clock
 - Displays real-time local time in `HH:MM:SS` format
